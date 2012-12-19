@@ -1,7 +1,7 @@
 DStatus
 =======
 
-Status message for iOS, based on YRDropDown and YouTube look of the status messages.
+Status message for iOS, heavily based on YRDropDown and YouTube look of the status messages.
 
 ## How to use:
 	[DStatus showInView:self.view withMessage:NSLocalizedString(@"Place saved", nil) type:StatusTypeSuccess];
